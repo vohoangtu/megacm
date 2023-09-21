@@ -1,6 +1,6 @@
 <?php
 return [
-  'chatgpt' => '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',
+  'chatgpt' => env('OPENAI_CLIENT_KEY','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'),
   'location' => [
       'bondi', 'North Shore', 'Stanmore', 'Leichhardt',
       'Marrickville', 'Epping', 'Neutral Bay', 'Surry Hills'
