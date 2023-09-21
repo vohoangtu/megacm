@@ -54,7 +54,11 @@
                     <div class="blog-content-menu bg-grey __content p-5">
                         <h4>About MegaCM</h4>
                         <div>
-                            <p><a href="https://www.maidforyou.com.au/">Maidforyou.com.au</a> is NOT your typical Sydney metropolitan home cleaning company. <a href="https://www.maidforyou.com.au/"><strong>MaidForYou</strong></a> is bringing <a href="/services/">maid services</a> into the 21st century by building a company we would want to do business with ourselves.</p>
+                            <p><a href="https://www.maidforyou.com.au/">Megacm.com.au</a> is NOT your typical Sydney
+                                metropolitan home cleaning company. <a href="https://www.maidforyou.com
+                                .au/"><strong>MegaCM</strong></a> is bringing <a href="/services/">cleaning and
+                                    maintain services</a>
+                                into the 21st century by building a company we would want to do business with ourselves.</p>
                         </div>
                         <p>Click below to explore our services:</p>
 
